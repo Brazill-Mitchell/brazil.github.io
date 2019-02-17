@@ -212,8 +212,30 @@ color: var(--text-primary-color);
   max-width: var(--menu-contact-preview-icons-max);
   border-radius: var(--menu-preview-icon-border-radius);
 
+}
 
+#projects-container{
+    position: relative;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    top: 300px;
+}
 
+.project-thumbs{
+    position: relative;
+/*    background-color: red;*/
+    color: white;
+    font-size: 25px;
+/*    opacity: .4;*/
+    
+    width: 20%;
+    height: 150px;
+    margin: 45px;
+    
 }
 
 #text-area-label{
