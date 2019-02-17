@@ -70,6 +70,7 @@ function changeStyle(){
 function changeCustomElementStyle(style){
     let color;
     switch(style){
+        case "0": color = "rgba(255,255,255,0)"; break;
         case "1": color = "rgba(255,0,0,.4)"; break;
         case "2": color = "rgba(205,100,0,.4)"; break;
         case "3": color = "rgba(210,200,0,.4)"; break;
@@ -83,6 +84,7 @@ function changeCustomElementStyle(style){
 function changeNavStyle(style){
     let color;
     switch(style){
+        case "0": color = "rgba(255,255,255,0)"; break;
         case "1": color = "rgba(255,0,0,.4)"; break;
         case "2": color = "rgba(205,100,0,.4)"; break;
         case "3": color = "rgba(210,200,0,.4)"; break;
@@ -97,6 +99,7 @@ function changeNavStyle(style){
 function changeBannerStyle(style){
     let color;
     switch(style){
+        case "0": color = "rgba(255,255,255,0)"; break;
         case "1": color = "rgba(255,0,0,.4)"; break;
         case "2": color = "rgba(205,100,0,.4)"; break;
         case "3": color = "rgba(210,200,0,.4)"; break;
