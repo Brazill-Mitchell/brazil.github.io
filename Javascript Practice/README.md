@@ -1,4 +1,4 @@
-**Paint App**<br/>
+# Paint App<br/>
 This app allows the user to paint on the canvas using the mouse.
 
 **How to Use**<br/>
