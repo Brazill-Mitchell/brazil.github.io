@@ -2,8 +2,8 @@
 This app allows the user to paint on the canvas using the mouse.
 
 **How to Use**<br/>
-Place the mouse over the canvas and click to start a line<br/>
-Release to stop. 
+Place the mouse over the canvas and click to start a line.<br/>
+Release to stop. <br/>
 Select the size and color using the dropdown menus.
 
 **Display**<br/>
